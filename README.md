@@ -24,3 +24,13 @@ devops-course-website/
 │   └── style.css
 └── js/
     └── script.js  (optional)
+
+     Option B: https://www.duckdns.org/
+Totally free + very simple
+
+Get a domain like myproject.duckdns.org
+
+Update IP manually or with a small script
+
+success: domain devopsdeepdive.duckdns.org added to your account
+
